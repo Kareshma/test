@@ -1,9 +1,7 @@
 # test
 
-![![Build Status](http://ec2-18-220-187-112.us-east-2.compute.amazonaws.com:8080/job/parent%20sub/badge/icon)](http://ec2-18-220-187-112.us-east-2.compute.amazonaws.com:8080/job/parent%20sub/)
+build status for ntop: 
 
-test-pipeline
-
-[![Build Status](http://ec2-18-220-187-112.us-east-2.compute.amazonaws.com:8080/job/test-pipeline/badge/icon)](http://ec2-18-220-187-112.us-east-2.compute.amazonaws.com:8080/job/test-pipeline)
+[![Build Status](http://ec2-18-216-84-128.us-east-2.compute.amazonaws.com:8080/buildStatus/icon?job=parent sub)](http://ec2-18-216-84-128.us-east-2.compute.amazonaws.com:8080/job/parent%20sub/)
 
 Testing webhook trigger!!
