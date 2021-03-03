@@ -9,4 +9,3 @@ try:
 except Exception as error:
   print(f'Current Working dir path: {os.getcwd()}')
   print(f'Error occured: {error}')
-  return False
